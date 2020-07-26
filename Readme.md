@@ -4,9 +4,9 @@
 
 ### 1. Overview
 
-This project is to implement a adder program
+This project is to implement Network Packet Capture Program
 
-This program adds two 32bit network byte order number regardless of Big or Little endian.
+This program Captures a Network Packet and shows information of Ethernet, IP, TCP, Payload.
 
 ### 2. Usage Example & Testing
 
